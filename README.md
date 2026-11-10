@@ -18,9 +18,7 @@ All three Blade films, recreated on the *Enter the Matrix* engine: its gunplay, 
 ## Enter The Matrix — the base of the gameplay
 [![Watch the video](https://img.youtube.com/vi/3BtWBCfQ-Uw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3BtWBCfQ-Uw)
 
-![https://raw.githubusercontent.com/FrankHUN88453/CoD3Recomp/main/preview.png](https://raw.githubusercontent.com/FrankHUN88453/CoD3Recomp/main/preview.png)
-
-[![Watch the video](https://img.youtube.com/vi/b1nE2SDYxac/maxresdefault.jpg)](https://www.youtube.com/watch?v=b1nE2SDYxac)
+[![Watch the video](https://img.youtube.com/vi/LIXWHIjnk9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=LIXWHIjnk9w)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)

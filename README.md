@@ -29,9 +29,19 @@ All three Blade films, recreated on the *Enter the Matrix* engine: its gunplay, 
 
 [https://archive.org/details/enter-the-matrix-2003-pc](https://archive.org/details/enter-the-matrix-2003-pc)
 
-![https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/enter-the-matrix-cover.png](https://archive.org/details/enter-the-matrix-2003-pc)
+[![Enter the Matrix cover](https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/enter-the-matrix-cover.png)](https://archive.org/details/enter-the-matrix-2003-pc)
 
-![https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/enter-the-matrix-xbox-cover.png](https://vimm.net/vault/26121)
+[![Enter the Matrix Xbox cover](https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/enter-the-matrix-xbox-cover.png)](https://vimm.net/vault/26121)
+
+[![Blade I PS1](https://img.youtube.com/vi/q0CR7ALwf3w/maxresdefault.jpg)](https://www.youtube.com/watch?v=q0CR7ALwf3w)
+
+[![Blade II PS2](https://img.youtube.com/vi/cH_U-FuAwYE/maxresdefault.jpg)](https://www.youtube.com/watch?v=cH_U-FuAwYE)
+
+[![Blade I PS1](https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/blade-ps1-cover.png)](https://vimm.net/vault/50963)
+
+[![Blade II PS2](https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/blade-ii-ps2-cover.png)](https://vimm.net/vault/68634)
+
+
 
 
 ---

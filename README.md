@@ -16,9 +16,9 @@ All three Blade films, recreated on the *Enter the Matrix* engine: its gunplay, 
 [https://api.github.com/repos/igiteam/enter-the-matrix-blade-trilogy/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/enter-the-matrix-blade-trilogy/git/trees/main?recursive=1)
 
 ## Enter The Matrix — the base of the gameplay
-[![Watch the video](https://img.youtube.com/vi/3BtWBCfQ-Uw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3BtWBCfQ-Uw)
+[![Watch the video](https://img.youtube.com/vi/3BtWBCfQ-Uw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?M0J0V0JDZlEtVXc)
 
-[![Watch the video](https://img.youtube.com/vi/LIXWHIjnk9w/maxresdefault.jpg)](https://www.youtube.com/watch?v=LIXWHIjnk9w)
+[![Watch the video](https://img.youtube.com/vi/LIXWHIjnk9w/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TElYV0hJam5rOXc)
 
 [![Junkie XL - Dealing with the Roster](https://img.youtube.com/vi/G7bnLMFwHm4/hqdefault.jpg)](https://ytembed.macosxjs.com/?RzdibkxNRndIbTQ)
 

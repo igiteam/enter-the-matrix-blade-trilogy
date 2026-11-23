@@ -1,5 +1,5 @@
 # enter-the-matrix-blade-trilogy
-## Enter The Matrix — Blade 1-2-3 Remake
+## Enter The Matrix — Blade Trilogy Remake
 A remake of the **Blade** trilogy — *Blade* (1998), *Blade II* (2002), and *Blade: Trinity* (2004) — rebuilt in the **Enter the Matrix** engine, plus an original fourth game that was never made.
 
 ---

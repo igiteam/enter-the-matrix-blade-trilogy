@@ -29,6 +29,8 @@ All three Blade films, recreated on the *Enter the Matrix* engine: its gunplay, 
 ## Reference links
 [https://github.com/ThirteenAG/WidescreenFixesPack/issues/774](https://github.com/ThirteenAG/WidescreenFixesPack/issues/774)
 
+[enter-the-matrix-widescreen-macosx-wine](https://html.macosxjs.com/?https%3A%2F%2Fgithub.com%2Figiteam%2Fenter-the-matrix-blade-trilogy%2Fblob%2Fmain%2Fenter-the-matrix-widescreen-wine-macosx.html)
+
 [https://archive.org/details/enter-the-matrix-2003-pc](https://archive.org/details/enter-the-matrix-2003-pc)
 
 [![Enter the Matrix cover](https://raw.githubusercontent.com/igiteam/enter-the-matrix-blade-trilogy/refs/heads/main/enter-the-matrix-cover.png)](https://archive.org/details/enter-the-matrix-2003-pc)
